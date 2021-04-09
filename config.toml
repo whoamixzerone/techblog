@@ -3,7 +3,7 @@ baseURL = "https://whoamixzerone.github.io/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "👨‍💻Quantum Times"
+title = "👨‍💻Quantum & Time"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
