@@ -12,7 +12,8 @@ summaryLength=500
 [params]
   # LoveIt theme version
   version = "0.2.X"
-  defaultTheme = "auto"
+#  defaultTheme = "auto"
+  defaultTheme = "dark"
 
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
