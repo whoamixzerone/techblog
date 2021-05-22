@@ -19,17 +19,23 @@ summaryLength=500
     desktopMode = "auto"
     # mobile header mode ("fixed", "normal", "auto")
     mobileMode = "auto"
+#    [params.header.title]
+#      logo = ""
+#      name = "Quantum & Time"
+#      pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
+#      post = ""
+#      typeit = false
   [params.footer]
     enable = true
     since = 2021
-#  [params.home.profile]
-#      enable = true
-#      avatarURL = "/images/profile.png"
-#      subtitle = "Programmer rather than coder."
-#      # whether to use typeit animation for subtitle
-#      typeit = true
-#      # whether to show social links
-#      social = true
+  [params.home.profile]
+      enable = true
+      avatarURL = "/images/main-image.jpg"
+      subtitle = "I don't ever give up."
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
 #  [params.social]
 #    GitHub = "whoamixzerone"
 #    Linkedin = ""
