@@ -10,6 +10,7 @@ url: /2021/05/23/java-pattern-singleton
 featuredImage: /images/java_pattern.png
 images:
     - /images/java_pattern.png
+published: false
 ---
 # 싱글톤 패턴(Singleton Pattern)
 
