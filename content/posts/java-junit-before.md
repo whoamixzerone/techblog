@@ -113,5 +113,7 @@ public class CalculatorTest {
 테스트를 실행해보면 실행 순서는 다음과 같이 나온다.  
 <img src = "/images/calculatortest.png" alt="junit-test" width="50%" height="50%">
 
+* @Before -> method -> @After 순서로 나오는 것을 확인할 수 있다.
+
 <br>
 매번 초기화, 후처리 작업을 통해 각 테스트 간에 영향을 미치지 않으면서 독립적인 실행이 가능하다.
