@@ -11,7 +11,7 @@ tags:
     - After
 url: /2021/07/18/java-junit-before
 featuredImage: /images/annotation-before.png
-imamges:
+images:
     - /images/annotation-before.png
 published: true
 ---

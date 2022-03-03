@@ -9,7 +9,8 @@ tags:
     - Token
 url: /2021/12/15/jwt-token
 featuredImage: /images/jwt-logo.png
-imamges: /images/jwt-logo.png
+images: 
+    - /images/jwt-logo.png
 published: true
 ---
 # JSON 웹 토큰

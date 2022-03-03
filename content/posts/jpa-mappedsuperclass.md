@@ -8,7 +8,8 @@ tags:
     - Spring
 url: /2022/03/03/jpa-mappedsuperclass
 featuredImage: /images/jpa-logo.png
-images: /images/jpa-logo.png
+images: 
+    - /images/jpa-logo.png
 published: true
 ---
 # @MappedSuperclass
